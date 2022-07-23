@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 Hey master 
 I made a change to this
-=======
-Hey master
 changed from git hub
->>>>>>> 6edfd89bd39235b016126e7d5ffd50b0046f8176
+
